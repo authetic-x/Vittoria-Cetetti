@@ -6,7 +6,7 @@ Peking Opera is the quinstenance of Chinese culture, a traditional art which int
 
 ##  Standard
 
-Peking Opera is a cultural treasure of Chinese. As a traditional art, it integrates music, singing, dance, costume art, makeup, acting and acrobatics into a whole. Peking Opera roles include Sheng(male roles), Dan(female roles), Jing(painted roles), and Chou(comedic male roles). In the past, women were not allowed to perform on opera stage. Hence, men also played the female roles(Dan). Among them, Mei YanFang was one the most famous actors. The facial makeup of Opeking Opera is very colorful. Different styles symbolize different personalities, characteristics, and fates of the roles. For example, red signifies faithfulness, bravery and wisdom, while black represents uprightness and integrity, and white implies insidiousness and treachery.
+Peking Opera is a cultural treasure of Chinese. As a traditional art, it integrates music, singing, dance, costume art, makeup, acting and acrobatics into a whole. Peking Opera roles include Sheng(male roles), Dan(female roles), Jing(painted roles), and Chou(comedic male roles). In the past, women were not allowed to perform on opera stage. Hence, men also played the female roles(Dan). Among them, Mei YanFang was one of the most famous actors. The facial makeup of Opeking Opera is very colorful. Different styles symbolize different personalities, characteristics, and fates of the roles. For example, red signifies faithfulness, bravery and wisdom, while black represents uprightness and integrity, and white implies insidiousness and treachery.
 
 *   cultural treasure
 *   integrate sth into a whole
